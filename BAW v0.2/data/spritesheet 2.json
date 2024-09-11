@@ -1,0 +1,75 @@
+{"frames":{
+
+    "water.png":
+    {
+        "frame": {"x":1, "y":1, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "grass.png":
+    {
+        "frame": {"x":8, "y":1, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "stone.png":
+    {
+        "frame": {"x":16, "y":1, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "dirt.png":
+    {
+        "frame": {"x":24, "y":1, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "mud.png":
+    {
+        "frame": {"x":1, "y":8, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "sand.png":
+    {
+        "frame": {"x":8, "y":8, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "leaves.png":
+    {
+        "frame": {"x":16, "y":8, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "tree_stump.png":
+    {
+        "frame": {"x":24, "y":8, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    },
+    "snow.png":
+    {
+        "frame": {"x":24, "y":16, "w":8, "h":8},
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {"x":0, "y":0, "w":8, "h":8},
+        "sourceSize": {"w":8, "h":8}
+    }
+}}

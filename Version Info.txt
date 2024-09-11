@@ -1,0 +1,53 @@
+All BAW updates with info:
+
+v0.1 - First version of the game
+     - BUGS: 	Diagonal movement lock
+	     	Ugly GUI
+     - FEATURES:	Menu screen
+		     Movable map
+     - PLANNED:	The rest of the game
+
+
+V0.2 - The sprite update
+     - BUGS:	Objects and tiles do not generate in the game, they only exist in code
+     - FEATURES:	Player sprite
+		     Sprint functionality
+		     New objects and tiles
+     - PLANNED:	A system to generate sprites
+
+v0.3 - The world update
+     - BUGS:	
+     - FEATURES:	A system to generate tiles into the world
+     - PLANNED:	More tiles
+		Items?
+
+V0.4 - The item update
+     - BUGS:	
+     - FEATURES:	Adds items that can be picked up and are generated in the world
+		          Some items may grant special abilities, such as the raft allowing the player to cross water tiles
+     - PLANNED:	A way to complete the game and a score system
+
+V0.5 - The completable update
+     - BUGS:	N/A
+     - FEATURES:	Adds a GUI displaying a timer and a score
+     		     Game can be completed and has a score system, which is given at the end of the timer
+     - PLANNED: 	Savegames?
+
+v0.6 - The Savegame update
+     - BUGS:	HUGE frame rate issue
+     - FEATURES:	Introduces Savegames
+		          Savegames can be renamed
+		          Savegames can be wiped
+		          Savegames record date and time of last save
+		          Savegames can be accessed even after a game is closed, since they are stored in json files
+     - PLANNED:	Fix frame rate issue
+
+v0.7 - Efficiency update
+     - BUGS:	HUGE frame rate issue
+     - FEATURES:	All codes efficiency has been improved to make the game run slightly smoother
+     - PLANNED:	More efficiency, the game still runs very slow
+
+v0.8 - Total rewrite
+     - BUGS: 
+     - FEATURES:    Alot of code rewritten to improve efficiency
+                    Movement system has been changed to move the player instead of map, requiring far less processing

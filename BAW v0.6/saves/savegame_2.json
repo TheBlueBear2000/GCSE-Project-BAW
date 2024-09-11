@@ -1,0 +1,12 @@
+{
+    "name": "Untitled Savegame",
+    "timeSaved": "Game Never Saved",
+    "playerdata":{
+        "inv": ["NULL", -1, -1],
+        "score": 0,
+        "hasRaft": false,
+        "coordinates":[-4210,-3460],
+        "countdown":[5,0,0]
+    }
+}
+
